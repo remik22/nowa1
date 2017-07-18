@@ -1,0 +1,23 @@
+#container{
+    background: center;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rectangle{
+    background: center;
+    background-image: url(nurse.jpg);
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 340px;
+    font-size: 120px;
+    font-family: 'Great Vibes', cursive;
+    
+    
+}
+#logo{
+    margin-left: 50px;
+    padding-top: 200px;
+    color: darkviolet;
+}
